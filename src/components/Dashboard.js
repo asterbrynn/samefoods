@@ -6,7 +6,7 @@ export default class Dashboard extends Component {
 	render() {
 		return (
 			<div>
-				lol
+				eyyyyyyyyyy
 				<br/>
 				<button>
 					<Link to="/edit-list" style={{color: "black", textDecoration: "none"}}>Edit Your List</Link>
